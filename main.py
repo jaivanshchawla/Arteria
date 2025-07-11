@@ -7,7 +7,7 @@ import math
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'arteria_user',
-    # 'password': '',
+    # 'password': 'Your password to SQL',
     'database': 'arteria_db'
 }
 
