@@ -6,7 +6,7 @@ import math
 # MySQL connection details
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'arteria_user',
+    'user': '',
     # 'password': 'Your password to SQL',
     # 'database': 'your database name'
 }
