@@ -8,7 +8,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'user': 'arteria_user',
     # 'password': 'Your password to SQL',
-    # 'database': ''
+    # 'database': 'your database name'
 }
 
 # Blood group tree node
